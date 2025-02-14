@@ -6,7 +6,7 @@ const Home = () => {
     return (
         <>
             <Banner></Banner>
-            <Counting></Counting>
+            {/* <Counting></Counting> */}
         </>
 
     );

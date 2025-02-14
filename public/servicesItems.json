@@ -1,0 +1,39 @@
+{
+    "servicesItems": [
+        {
+            "id": "1",
+            "name": "Spinnin Record Talent pool Top 1 Rank",
+            "link": "#spinnin"
+        },
+        {
+            "id": "2",
+            "name": "Targeted Website Visitors",
+            "link": "#visitors"
+        },
+        {
+            "id": "3",
+            "name": "SoundCloud",
+            "link": "#soundCloud"
+        },
+        {
+            "id": "4",
+            "name": "Apple Music",
+            "link": "#apple"
+        },
+        {
+            "id": "5",
+            "name": "YouTube",
+            "link": "#youtube"
+        },
+        {
+            "id": "6",
+            "name": "Instagram",
+            "link": "#instagram"
+        },
+        {
+            "id": "7",
+            "name": "Facebook",
+            "link": "#facebook"
+        }
+    ]
+}
