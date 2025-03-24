@@ -57,7 +57,7 @@ const Banner = () => {
             <div className="relative z-10 container mx-auto px-4 py-16">
                 <div className="max-w-4xl mx-auto text-center mb-16">
                     <h1 className="text-3xl md:text-5xl sm:text-2xl font-bold text-white mb-6">
-                        The Best & Cheapest Panel for All Your<br />
+                        The Best Agency for All Your<br />
                         Social Media Growth Needs
                     </h1>
                     <div className="text-gray-300 text-lg max-w-3xl mx-auto">
